@@ -1,0 +1,17 @@
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.deps.json
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.runtimeconfig.json
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.dll
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Infrastructure_Library.pdb
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Domain_Library.dll
+D:\Movie\Movie_Management_System\Infrastructure_Library\bin\Debug\net6.0\Domain_Library.pdb
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.AssemblyReference.cache
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.AssemblyInfoInputs.cache
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.AssemblyInfo.cs
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.CoreCompileInputs.cache
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.csproj.CopyComplete
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.dll
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\refint\Infrastructure_Library.dll
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.pdb
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\Infrastructure_Library.genruntimeconfig.cache
+D:\Movie\Movie_Management_System\Infrastructure_Library\obj\Debug\net6.0\ref\Infrastructure_Library.dll

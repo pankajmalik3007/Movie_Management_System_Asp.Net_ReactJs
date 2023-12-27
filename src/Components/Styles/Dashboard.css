@@ -1,0 +1,60 @@
+@keyframes moveHeading {
+    0% {
+      transform: translateX(100%);
+    }
+    50% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .dashboard-container {
+    padding: 50px;
+    text-align: center;
+    background-color: #282c34;
+    color: white;
+  }
+  
+  .move-heading {
+    margin-bottom: 20px;
+    animation: moveHeading 6s ease-out infinite; 
+  }
+  
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .popcorn-container {
+    flex: 1;
+    position: relative;
+  }
+  
+  .popcorn-image {
+    width: 500px;
+    border-radius: 75px;
+    animation: bounce 1s infinite;
+  }
+  
+  .popcorn-icon {
+    font-size: 40px;
+    color: #ff5722;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+  }
+  
+  .thor-container {
+    flex: 1;
+  }
+  
+  .thor-image {
+    width: 500px;
+    height: 370px;
+    border-radius: 10px;
+  }
+  
